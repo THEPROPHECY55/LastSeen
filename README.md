@@ -1,4 +1,4 @@
-# LastSeen
+# LastSeen (Deprecated)
 
 **LastSeen** is a BetterDiscord plugin that tracks the "Last Seen" time of a specific user, showing the last time they were online.
 
